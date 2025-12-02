@@ -1,0 +1,7 @@
+[theme]
+base="dark"
+primaryColor="#ff4b81"      # neon pink
+backgroundColor="#050014"   # deep space
+secondaryBackgroundColor="#151433"
+textColor="#ffffff"
+font="sans serif"
